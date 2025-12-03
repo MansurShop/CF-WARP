@@ -20,7 +20,7 @@ A Bash script that automatically installs and configures CloudFlare WARP in Linu
 
 Supported distributions:
 
-- Debian >= 10
+- Debian >= 10/11
 - Ubuntu >= 16.04
 - Fedora
 - CentOS
@@ -85,6 +85,7 @@ menu            Chinese special features menu
 - [Cloudflare WARP](https://1.1.1.1/)
 - [WireGuard](https://www.wireguard.com/)
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf)
+- Mansurshop (Tester)
 
 ## License
 

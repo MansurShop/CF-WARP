@@ -24,7 +24,7 @@ uram=$(free -m | awk 'NR==2 {print $3}')
 
 echo ""
 echo -e "$y                        MAIN MENU $wh"
-echo -e "$y                Simple menu WARP Cloudflare $wh"
+echo -e "$y                Simple menu WARP Cloudflare (MansurShop) $wh"
 echo -e "${BB}————————————————————————————————————————————————————————${NC}"
 echo -e "                ${WB} ♦️ Server Information ♦️ ${NC}             "
 echo -e "${BB}————————————————————————————————————————————————————————${NC}"
